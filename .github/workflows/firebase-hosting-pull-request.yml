@@ -1,0 +1,35 @@
+name: Deploy to Firebase Hosting on PR
+
+'on': pull_request
+
+jobs:
+  build_and_preview:
+    if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0 # Check for the latest version
+        with: 
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v3 # Updated to v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run:  hugo -E -F --minify -d public
+
+      - name: Deploy preview
+        uses: FirebaseExtended/action-hosting-deploy@v0 # Check for a newer version
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DATA_BLOG_566D7 }}' # Updated
+          expires: 30d
+          channelId: preview-${{ github.event.number }}
+          projectId: data-blog-566d7 # Updated
