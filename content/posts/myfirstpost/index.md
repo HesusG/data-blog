@@ -1,6 +1,6 @@
 ---
 title: "Using Agg and Resample with Temporal Data"
-date: 2024-02-2125
+date: 2024-02-23
 draft: false
 summary: "Harnessing the Power of Pandas for Time-Series Analysis in Python"
 tags: ["space"]
@@ -66,7 +66,7 @@ If you've found the insights shared in this blog post intriguing, I encourage yo
 
 You can also find the CSV file used for the demonstration. Feel free to download these resources, explore the data, and even try out your own analyses.
 
-- [Jupyter Notebook for Time-Series Analysis](../../assets/materials/pandas_time_series_demo.ipynb)
-- [CSV File with Demo Data](../../assets/materials/demo_data_for_blog_post.csv)
+- [Jupyter Notebook for Time-Series Analysis](https://github.com/HesusG/data-blog/blob/main/assets/materials/pandas_time_series_demo.ipynb)
+- [CSV File with Demo Data](https://github.com/HesusG/data-blog/blob/main/assets/materials/demo_data_for_blog_post.csv)
 
 Happy analyzing!
