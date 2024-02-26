@@ -10,7 +10,7 @@ defaultBackgroundImage = "image.jpg"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
@@ -81,7 +81,7 @@ disableTextInHeader = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false

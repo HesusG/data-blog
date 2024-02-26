@@ -3,7 +3,7 @@ title: "Using Agg and Resample with Temporal Data"
 date: 2024-02-23
 draft: false
 summary: "Harnessing the Power of Pandas for Time-Series Analysis in Python"
-tags: ["space"]
+tags: ["python", "pandas", "data analytics"]
 ---
 
 # Harnessing the Power of Pandas for Time-Series Analysis in Python
