@@ -8,9 +8,9 @@ tags: ["pedagogy", "tech education", "teaching", "critical thinking", "education
 
 # Reflections on Teaching and Tech
 
-    As I dive into my master's in pedagogy, I want to share insights about how teaching and technology intersect in the classroom and beyond. Drawing from my own experiences in tech education, let’s explore the evolving role of educators in fostering critical thinking and curiosity.
+> As I dive into my master's in pedagogy, I want to share insights about how teaching and technology intersect in the classroom and beyond. Drawing from my own experiences in tech education, let’s explore the evolving role of educators in fostering critical thinking and curiosity.
 
-Hey everyone! 👋 I’m currently studying online at Universidad Popular Autónoma del Estado de Puebla, working on my master's degree in pedagogy. This week’s reading for my academic writing course focused on synthesizing some of Noam Chomsky’s ideas. It’s making me rethink a lot about the way we teach, especially when it comes to fostering independent thinking.
+Hey everyone! 👋. This week’s reading for my academic writing course focused on synthesizing some of Noam Chomsky’s ideas. It’s making me rethink a lot about the way we teach, especially when it comes to fostering independent thinking.
 
 In tech education, I’ve always been drawn to the practical side—teaching people how to code, analyze data, or use cloud technologies. But now I’m digging into the *why* and *how* of teaching itself. How do we, as educators, ensure that we’re not just training people to follow instructions, but actually encouraging them to think critically and creatively?
 
@@ -32,12 +32,12 @@ If you're interested in these ideas, I highly recommend exploring Chomsky's crit
 
 While I haven’t been able to read each book or article in full, I’ve explored key excerpts and tried to absorb as much as possible from these valuable resources. These texts have challenged me to rethink traditional approaches to education, and I’ve attempted to piece together meaningful insights based on the content I’ve engaged with.
 
-Chomsky, N. (2003). *Chomsky on Democracy & Education*. RoutledgeFalmer. 
+>Chomsky, N. (2003). *Chomsky on Democracy & Education*. RoutledgeFalmer. 
 
-Chomsky, N. (2011). The function of schools: Subtler and cruder methods of control. In K. J. Saltman & D. A. Gabbard (Eds.), *Education as enforcement: The militarization and corporatization of schools* (2nd ed., pp. 26–35). Routledge.  
+>Chomsky, N. (2011). The function of schools: Subtler and cruder methods of control. In K. J. Saltman & D. A. Gabbard (Eds.), *Education as enforcement: The militarization and corporatization of schools* (2nd ed., pp. 26–35). Routledge.  
 
-Herman, E. S., & Chomsky, N. (1988). *Manufacturing Consent: The Political Economy of the Mass Media*. Pantheon Books.  
+>Herman, E. S., & Chomsky, N. (1988). *Manufacturing Consent: The Political Economy of the Mass Media*. Pantheon Books.  
 
-Kalantzis, M., & Cope, B. (2008–2022). *New Learning: Elements of a Science of Education* (3rd ed.). Cambridge University Press/Common Ground Research Networks.  
+>Kalantzis, M., & Cope, B. (2008–2022). *New Learning: Elements of a Science of Education* (3rd ed.). Cambridge University Press/Common Ground Research Networks.  
 
-Google Scholar. (n.d.). Citations: Noam Chomsky. Google Scholar. [https://scholar.google.com/citations?user=rbgNVw0AAAAJ](https://scholar.google.com/citations?user=rbgNVw0AAAAJ)
+>Google Scholar. (n.d.). Citations: Noam Chomsky. Google Scholar. [https://scholar.google.com/citations?user=rbgNVw0AAAAJ](https://scholar.google.com/citations?user=rbgNVw0AAAAJ)
