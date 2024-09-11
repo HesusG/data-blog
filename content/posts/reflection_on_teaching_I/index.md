@@ -1,6 +1,6 @@
 ---
 title: "Reflections on Teaching and Tech: Blending Pedagogy with Technology"
-date: 2024-09-07
+date: 2024-09-10
 draft: false
 summary: "How to apply pedagogical theory in tech education to foster critical thinking and creativity."
 tags: ["pedagogy", "tech education", "teaching", "critical thinking", "educational technology", "student engagement", "learning"]
