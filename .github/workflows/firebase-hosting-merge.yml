@@ -1,6 +1,6 @@
 name: Deploy to Firebase Hosting on merge
 
-'on':
+"on":
   push:
     branches:
       - main
@@ -11,15 +11,15 @@ jobs:
     steps:
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.6.0 # Check for newer version
-        with: 
-          hugo-version: 'latest'
+        with:
+          hugo-version: "0.127.0"
           extended: true
 
       - name: Check out code into the Go module directory
         uses: actions/checkout@v3 # Updated to v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build with Hugo
         env:
@@ -30,7 +30,7 @@ jobs:
       - name: Deploy Production
         uses: FirebaseExtended/action-hosting-deploy@v0 # Verify if there's a more recent version
         with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DATA_BLOG_566D7 }}'
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_DATA_BLOG_566D7 }}"
           channelId: live
           projectId: data-blog-566d7
