@@ -1,3 +1,4 @@
+---
 title: "Mastering AWS Route Tables: Directing Traffic in Your VPC"  
 date: 2024-12-06  
 draft: false  

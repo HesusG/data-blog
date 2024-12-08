@@ -1,3 +1,4 @@
+---
 title: "AWS NAT Gateway: Secure Internet Access for Private Resources"  
 date: 2024-12-06  
 draft: false  

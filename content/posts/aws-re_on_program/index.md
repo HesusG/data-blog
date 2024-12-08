@@ -1,5 +1,4 @@
 ---
-
 title: "AWS re/Start | My Journey into AWS: Starting from Scratch"  
 date: 2024-12-06
 draft: false  
