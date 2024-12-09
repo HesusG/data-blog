@@ -1,6 +1,6 @@
 ---
-title: "Understanding AWS Internet Gateway: Connecting Your VPC to the World"  
-date: 2024-12-06  
+title: "aws/re IV - Understanding AWS Internet Gateway: Connecting Your VPC to the World"  
+date: 2024-12-09  
 draft: false  
 summary: "Learn about AWS Internet Gateways (IGWs), their role in enabling internet access for your VPC, and how to set them up for public subnets. Explore practical examples and troubleshooting tips for beginners."  
 tags: ["AWS", "internet gateway", "VPC", "cloud networking", "subnets", "beginners"]

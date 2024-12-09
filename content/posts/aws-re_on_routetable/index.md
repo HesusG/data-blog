@@ -1,6 +1,6 @@
 ---
-title: "Mastering AWS Route Tables: Directing Traffic in Your VPC"  
-date: 2024-12-06  
+title: "aws/re III - Mastering AWS Route Tables: Directing Traffic in Your VPC"  
+date: 2024-12-09 
 draft: false  
 summary: "Explore AWS route tables, their purpose, and how they guide traffic within and outside your Virtual Private Cloud (VPC). Learn through relatable analogies and step-by-step examples."  
 tags: ["AWS", "route tables", "VPC", "networking", "subnets", "beginners", "cloud computing"]

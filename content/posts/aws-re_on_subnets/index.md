@@ -1,6 +1,6 @@
 ---
-title: "Breaking Down AWS Subnets: Public vs. Private"  
-date: 2024-12-06  
+title: "aws/re II - Breaking Down AWS Subnets: Public vs. Private"  
+date: 2024-12-08  
 draft: false  
 summary: "Dive deep into the concept of subnets in AWS VPCs, learn how they work, their types, and how to use them effectively for building scalable and secure cloud architectures."  
 tags: ["AWS", "subnets", "cloud computing", "VPC", "networking", "cloud architecture", "beginners"]

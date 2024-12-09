@@ -1,6 +1,6 @@
 ---
-title: "AWS NAT Gateway: Secure Internet Access for Private Resources"  
-date: 2024-12-06  
+title: "aws/re V - AWS NAT Gateway: Secure Internet Access for Private Resources"  
+date: 2024-12-10  
 draft: false  
 summary: "Learn how AWS NAT Gateways enable private resources to securely access the internet while maintaining isolation. Discover step-by-step instructions and real-world examples."  
 tags: ["AWS", "NAT Gateway", "VPC", "cloud networking", "private subnets", "beginners"]

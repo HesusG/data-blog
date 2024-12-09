@@ -1,6 +1,6 @@
 ---
-title: "What is AWS VPC? Your Private Data Center in the Cloud"  
-date: 2024-12-06  
+title: "aws/re I - What is AWS VPC? Your Private Data Center in the Cloud"  
+date: 2024-12-07  
 draft: false  
 summary: "Learn what AWS VPC is, why it’s critical for secure cloud networking, and how it forms the foundation for building robust architectures in AWS."  
 tags: ["AWS", "VPC", "cloud networking", "subnets", "beginner", "cloud computing"]
